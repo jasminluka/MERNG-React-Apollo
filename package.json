@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://merng-apollo-server.herokuapp.com/"
+  "proxy": "https://merng-apollo-server.herokuapp.com"
 }
